@@ -1,0 +1,14 @@
+.attendees--container {
+  position: relative;
+  margin-left: 30px;
+  margin-top: 25px;
+}
+
+.attendee--image {
+  position: absolute;
+}
+
+.attendees-text {
+  position: absolute;
+  left: 135px;
+}
