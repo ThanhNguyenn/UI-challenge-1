@@ -1,4 +1,4 @@
-## PURPOSE OF PROJECT: 
+## PURPOSE OF THIS PROJECT: 
 
 
 I attempt to challenge myself to build a small piece of UI everyday using React in order to practice and improve my understanding of ReactJS and CSS. I called it UI challenge! 
